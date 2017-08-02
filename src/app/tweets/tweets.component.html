@@ -1,0 +1,9 @@
+<p>
+  tweets works!
+</p>
+<ul>
+  <li *ngFor="let tweet of tweets$ | async">
+    <pre>{{tweet | json}}</pre>
+  </li>
+</ul>
+  <router-outlet></router-outlet>

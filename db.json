@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Couldn't believe how incredibly inspiring and creative they were!! 332 replies 754 retweets 11,546 likes",
+      "author": "Elon Musk"
+    },
+    {
+      "id": 2,
+      "title": "First!",
+      "author": "Elon Musk"
+    },
+    {
+      "id": 3,
+      "title": "Setting up for Model 3 handover tomorrow night ...",
+      "author": "Elon Musk"
+    },
+    {
+      "title": "Hacked by Chen",
+      "author": "Chen Eshchar",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Elon for President",
+      "postId": 1,
+      "Author": "Richard Startrex‏"
+    },
+    {
+      "id": 2,
+      "body": "Believe it. Your work and your companies inspire people like crazy. Thanks for that!",
+      "postId": 1,
+      "Author": "Randy DePasquale‏"
+    },
+    {
+      "id": 3,
+      "body": "I'm glad you're seeing how talented and creative online content creators are. People who are underestimated by the media everyday.",
+      "postId": 1,
+      "Author": "Rui Delgado"
+    },
+    {
+      "id": 4,
+      "body": "Gotta have a better way to pick winners. No surprise that a guy with 5M subscribers won",
+      "postId": 2,
+      "Author": "Everything Tesla‏"
+    },
+    {
+      "id": 5,
+      "body": "Watched them personally to make sure & I agree with the outcome. Wouldn't have judged differently. Amazing videos all, but @MKBHD was best.",
+      "postId": 2,
+      "Author": "Elon Musk"
+    },
+    {
+      "id": 6,
+      "body": "Talent=MKBHd",
+      "postId": 2,
+      "Author": "NikhilSa"
+    },
+    {
+      "id": 7,
+      "body": "Change the World One car at a Time !",
+      "postId": 3,
+      "Author": "HaShForce101"
+    },
+    {
+      "id": 8,
+      "body": "See you there front and centre!!",
+      "postId": 3,
+      "Author": "Model 3 Owners Club"
+    },
+    {
+      "id": 9,
+      "body": "Congrats! The day your 1st masterplan with Tesla ends, cause it became a reality;)",
+      "postId": 3,
+      "Author": "markaink‏"
+    }
+  ]
+}
